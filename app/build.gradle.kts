@@ -6,7 +6,7 @@ plugins {
 android {
     namespace = "com.unirfp.app_retrofit_elia_martinez"
     compileSdk {
-        version = release(35)
+        version = release(36)
     }
 
     defaultConfig {
